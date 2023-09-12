@@ -1,0 +1,17 @@
+com.example.water_quality_monitoring_system.app-jetified-window-java-1.0.0-beta04-0 C:\Users\Moeen\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.water_quality_monitoring_system.app-media-1.1.0-1 C:\Users\Moeen\.gradle\caches\transforms-3\13f29b4003f18f53249d90821a7f80a9\transformed\media-1.1.0\res
+com.example.water_quality_monitoring_system.app-core-1.6.0-2 C:\Users\Moeen\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.water_quality_monitoring_system.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Moeen\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.water_quality_monitoring_system.app-jetified-window-1.0.0-beta04-4 C:\Users\Moeen\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.water_quality_monitoring_system.app-debug-5 C:\Users\Moeen\Desktop\water_quality_monitoring_system\android\app\src\debug\res
+com.example.water_quality_monitoring_system.app-main-6 C:\Users\Moeen\Desktop\water_quality_monitoring_system\android\app\src\main\res
+com.example.water_quality_monitoring_system.app-pngs-7 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\app\generated\res\pngs\debug
+com.example.water_quality_monitoring_system.app-resValues-8 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\app\generated\res\resValues\debug
+com.example.water_quality_monitoring_system.app-rs-9 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\app\generated\res\rs\debug
+com.example.water_quality_monitoring_system.app-mergeDebugResources-10 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.water_quality_monitoring_system.app-mergeDebugResources-11 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.water_quality_monitoring_system.app-merged_res-12 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\app\intermediates\merged_res\debug
+com.example.water_quality_monitoring_system.app-packaged_res-13 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.example.water_quality_monitoring_system.app-packaged_res-14 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\fluttertoast\intermediates\packaged_res\debug
+com.example.water_quality_monitoring_system.app-packaged_res-15 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\path_provider_android\intermediates\packaged_res\debug
+com.example.water_quality_monitoring_system.app-packaged_res-16 C:\Users\Moeen\Desktop\water_quality_monitoring_system\build\shared_preferences_android\intermediates\packaged_res\debug

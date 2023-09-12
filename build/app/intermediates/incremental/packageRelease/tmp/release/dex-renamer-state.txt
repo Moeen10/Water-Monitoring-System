@@ -1,0 +1,4 @@
+#Thu Aug 31 17:03:34 BDT 2023
+base.0=C\:\\Users\\Moeen\\Desktop\\water_quality_monitoring_system\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
